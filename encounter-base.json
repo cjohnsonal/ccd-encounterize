@@ -1,0 +1,20 @@
+{
+	"codes" : {
+		"CPT" : [ 
+			"99214",
+			"99201"
+		]
+	},
+	"mood_code" : "EVN",
+	"_type" : "Encounter",
+	"start_time" : 1380000000,
+	"end_time" : 1380000000,
+	"description" : "",
+	"admitType" : null,
+	"dischargeTime" : 1380000000,
+	"dischargeDisposition" : null,
+	"cda_identifier" : {
+		"root" : "0024",
+		"extension" : "62ae279c-167c-49bd-bed1-6c96afcb2e11"
+	}
+}
